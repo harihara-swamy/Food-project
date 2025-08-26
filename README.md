@@ -1,4 +1,4 @@
-# 🍔 Foodie – The Burger and Pizza Dining Website
+# 🍔 Foodie – The Burger and Pizza Dining Platform
 
 **Foodie** is a fully responsive, visually appealing dining website built using HTML, CSS, and JavaScript. Designed to enhance the online restaurant experience, it allows users to browse menus, discover deals, and interact with a modern UI optimized for all devices.
 
